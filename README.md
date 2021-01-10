@@ -4,11 +4,11 @@
 <br/>  
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=andrefilsantos&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=andrefilsantos&show_icons=true&count_private=true&theme=dark" align="center" /></div>  
 
 
 ## Skill Set  
-<table width="100%">
+<table width="100%" style="margin: auto">
 <tr>
 <td valign="top" width="100%">
     <div align="center">  
